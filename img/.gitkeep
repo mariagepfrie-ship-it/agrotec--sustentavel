@@ -1,1 +1,11 @@
-
+cocho-automatico/
+│
+├── src/
+│   └── cocho_automatico.ino
+│
+├── docs/
+│   ├── esquema-eletrico.png
+│   └── manual.pdf
+│
+├── README.md
+└── LICENSE
