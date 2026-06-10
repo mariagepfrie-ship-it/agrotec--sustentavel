@@ -27,4 +27,5 @@ Projeto desenvolvido para demonstrar uma solução sustentável no agronegócio 
 
 ## Autor
 
-Seu Nome
+maria luiza gepfrie
+
